@@ -1,6 +1,6 @@
 //SP1 - Group Second tab
 
-// Arrays med teamsne for hver gruppe
+// Arrays med holdene i hver gruppe
 String[] groupTeamA = {"RUSSIA", "SAUDI ARABIA", "EGYPT", "URUGUAY"};                                          // Teams i gruppe A
 String[] groupTeamB = {"PORTUGAL", "SPAIN", "MOROCCO", "IRAN"};                                                // Teams i gruppe B
 String[] groupTeamC = {"FRANCE", "AUSTRALIA", "PERU", "DENMARK"};                                              // Teams i gruppe C
